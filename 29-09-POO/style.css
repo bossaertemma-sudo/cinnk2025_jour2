@@ -1,0 +1,14 @@
+#liste-garage {
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+ background-color: cornflowerblue;
+
+}
+
+#liste-garage .garage-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
